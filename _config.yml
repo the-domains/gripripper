@@ -1,0 +1,28 @@
+name: Gripripper
+favicon: null
+layout_spectrum: 0.06385796191170812
+typography_spectrum: 0.7126897627022117
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7646531567443162
+  lightness: 0.6196023360826075
+  saturation: 0.1345666917040944
+  rhythmicContrast: 0.8414990266319364
+purpose: []
